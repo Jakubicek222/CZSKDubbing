@@ -1,5 +1,5 @@
 # CZSKDubbing Repository
-Tento repozitár obsahuje prístup k všetkým videám z YouTube kanálu <a>https://youtube.com/@CZSKDubbing</a>*//CZECHSLOVAK Dubbing v kvalite FHD, HD a SD360.
+Tento repozitár obsahuje prístup k všetkým videám z YouTube kanálu v kvalite FHD, HD a SD360.
 YouTube CZECHSLOVAK Dubbing
-<a href="https://youtube.com/@CZSKDubbing"></a> 
-*// CZECHOSLOVAK Dubbing
+<a href=""></a> 
+<a href="https://youtube.com/@CZSKDubbing" _originalhref="https://youtube.com/@CZSKDubbing" aria-roledescription="hover card" aria-describedby="popover-describedby">Odkaz</a>
